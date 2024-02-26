@@ -31,10 +31,6 @@ Object tracking is the process of locating a moving object (or multiple objects)
 - `object_tracking.py`: Python script containing the main code for object tracking.
 - `README.md`: Documentation file providing an overview, usage instructions, and other details about the project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Credits
 
 - OpenCV Developers: For providing the KCF tracker implementation.
